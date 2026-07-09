@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_of_measure,standard_cost,reorder_level,max_stock_level
+PRD-001,Fresh Glow Soap 100g,Personal Care,Piece,45.0,500,5000
+PRD-002,ShineHair Shampoo 200ml,Personal Care,Piece,120.0,300,3000
+PRD-003,SoftSkin Face Wash 100ml,Personal Care,Piece,95.0,250,2500
+PRD-004,CoolMint Toothpaste 150g,Personal Care,Piece,65.0,400,4000
+PRD-005,DermaShield Lotion 250ml,Personal Care,Piece,180.0,200,2000
+PRD-006,AquaPure Hand Wash 500ml,Personal Care,Piece,110.0,350,3500
+PRD-007,NaturBloom Conditioner 200ml,Personal Care,Piece,135.0,200,2000
+PRD-008,SilkTouch Body Lotion 400ml,Personal Care,Piece,210.0,150,1500
+PRD-009,HerbalGlow Scrub 150g,Personal Care,Piece,155.0,150,1500
+PRD-010,FreshBreeze Deodorant 150ml,Personal Care,Piece,130.0,250,2500
+PRD-011,BrightWash Detergent 1kg,Home Care,KG,85.0,600,6000
+PRD-012,SparkleClean Dish Wash 500ml,Home Care,Piece,55.0,500,5000
+PRD-013,FloorShine Cleaner 1L,Home Care,Litre,75.0,400,4000
+PRD-014,FreshHome Toilet Cleaner 500ml,Home Care,Piece,60.0,350,3500
+PRD-015,PowerWash Detergent 2kg,Home Care,KG,155.0,400,4000
+PRD-016,GlassGuard Window Cleaner 1L,Home Care,Litre,90.0,300,3000
+PRD-017,FabricSoft Fabric Softener 1L,Home Care,Litre,105.0,250,2500
+PRD-018,BugAway Insect Spray 500ml,Home Care,Piece,120.0,200,2000
+PRD-019,DrainClear Pipe Cleaner 500ml,Home Care,Piece,80.0,200,2000
+PRD-020,AirFresh Room Freshener 300ml,Home Care,Piece,95.0,300,3000
+PRD-021,CrunchBite Biscuit 200g,Packaged Food,Piece,35.0,800,8000
+PRD-022,SpiceMix Chanachur 150g,Packaged Food,Piece,30.0,700,7000
+PRD-023,QuickNoodle Instant 75g,Packaged Food,Piece,25.0,1000,10000
+PRD-024,SweetMoment Cookie 150g,Packaged Food,Piece,40.0,600,6000
+PRD-025,CrispSnack Chips 100g,Packaged Food,Piece,28.0,700,7000
+PRD-026,MunchTime Crackers 200g,Packaged Food,Piece,38.0,500,5000
+PRD-027,NutriBar Energy Bar 50g,Packaged Food,Piece,55.0,400,4000
+PRD-028,FruitJam Strawberry 250g,Packaged Food,Piece,95.0,300,3000
+PRD-029,HoneyDrip Natural Honey 500g,Packaged Food,Piece,220.0,200,2000
+PRD-030,RoastedNut Mixed Nuts 200g,Packaged Food,Piece,185.0,250,2500

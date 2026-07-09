@@ -1,0 +1,7 @@
+route_id,route_name,origin_warehouse,destination,route_type,planned_distance_km,cost_per_km
+RT-01,Dhaka Metro,WH-01,Dhaka City Distributors,Urban,25.0,12.0
+RT-02,Dhaka–Chattogram Highway,WH-01,WH-02 / Chattogram Depot,Inter-city,245.0,12.0
+RT-03,Chattogram Coastal,WH-02,Chattogram District Dealers,Urban,40.0,12.0
+RT-04,Khulna–Jessore Belt,WH-03,Khulna/Jessore Distributors,Semi-urban,80.0,12.0
+RT-05,Sylhet Tea Belt,WH-04,Sylhet District Dealers,Rural,95.0,12.0
+RT-06,Dhaka–Sylhet Highway,WH-01,WH-04 / Sylhet Depot,Inter-city,310.0,12.0

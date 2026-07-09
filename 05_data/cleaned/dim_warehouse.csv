@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,location,type,capacity_units,monthly_holding_rate
+WH-01,Tejgaon Central Warehouse,"Tejgaon, Dhaka",Central,50000,0.02
+WH-02,Chattogram Regional Hub,Chattogram,Regional,25000,0.02
+WH-03,Khulna Distribution Center,Khulna,Regional,18000,0.02
+WH-04,Sylhet Regional Depot,Sylhet,Regional,15000,0.02

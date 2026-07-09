@@ -1,0 +1,16 @@
+supplier_id,supplier_name,category,sub_category,location,supplier_type,contract_start,standard_lead_days
+SUP-001,Agropack Ltd.,Packaging,General,Gazipur,Local,2018-03-01,7
+SUP-002,ChemSource BD,Raw Material,Chemical,Narayanganj,Local,2017-06-15,10
+SUP-003,GlobalPack Imports,Packaging,General,India,Import,2019-01-10,21
+SUP-004,NatureFresh Ingredients,Raw Material,Food,Bogura,Local,2016-09-01,8
+SUP-005,SwiftBox Manufacturing,Packaging,General,Gazipur,Local,2020-02-20,6
+SUP-006,PrimeChem Industries,Raw Material,Chemical,Chattogram,Local,2015-11-05,9
+SUP-007,EcoWrap Solutions,Packaging,General,Dhaka,Local,2021-04-12,5
+SUP-008,AsiaFood Commodities,Raw Material,Food,Thailand,Import,2018-07-30,25
+SUP-009,BioBase Materials,Raw Material,Personal Care,Narayanganj,Local,2019-03-18,11
+SUP-010,FastPack Ltd.,Packaging,General,Gazipur,Local,2022-01-05,5
+SUP-011,MegaChem Corp,Raw Material,Chemical,China,Import,2017-08-22,30
+SUP-012,DeltaFood Supply,Raw Material,Food,Mymensingh,Local,2016-05-14,7
+SUP-013,GreenLeaf Extracts,Raw Material,Personal Care,Sylhet,Local,2020-10-09,12
+SUP-014,PolyPack Industries,Packaging,General,Narayanganj,Local,2018-12-01,6
+SUP-015,OrientChem Ltd.,Raw Material,Chemical,China,Import,2019-06-17,28
