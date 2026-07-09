@@ -69,7 +69,7 @@ for i in range(1, NUM_SHIPMENTS + 1):
     warehouse_id = route["origin_warehouse"]
 
     # Random shipment date in 2024
-    shipment_date = date(2024, 1, 1) + timedelta(days=np.random.randint(0, 366))
+    shipment_date = date(2025, 1, 1) + timedelta(days=np.random.randint(0, 365))
 
     # Planned freight cost = planned_distance × cost_per_km
     planned_distance = float(route["planned_distance_km"])

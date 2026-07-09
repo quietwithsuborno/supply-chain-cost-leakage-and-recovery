@@ -65,7 +65,7 @@ for i in range(1, NUM_ORDERS + 1):
     order_type = np.random.choice(ORDER_TYPES, p=ORDER_TYPE_WEIGHTS)
 
     # Random order date in 2024
-    order_date = date(2024, 1, 1) + timedelta(days=np.random.randint(0, 366))
+    order_date = date(2025, 1, 1) + timedelta(days=np.random.randint(0, 365))
 
     # Delivery date = order date + lead days + some noise
     lead_days     = int(supplier["standard_lead_days"])
