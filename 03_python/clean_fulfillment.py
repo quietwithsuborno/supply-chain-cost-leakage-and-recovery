@@ -98,6 +98,10 @@ for idx, row in ful[ful["fulfillment_date"].isna()].iterrows():
 
 print(f"\n✅ Step 4 — fulfillment_date nulls filled from date_id: {filled_date}")
 
+# Cap date_id at 2025-12-31
+ful.loc[ful["date_id"] > "2025-12-31", "date_id"] = "2025-12-31"
+ful.loc[ful["fulfillment_date"] > "2025-12-31", "fulfillment_date"] = "2025-12-31"
+
 # ─────────────────────────────────────────
 # STEP 5: Clean Text Columns
 # order_status → strip whitespace + Title Case
