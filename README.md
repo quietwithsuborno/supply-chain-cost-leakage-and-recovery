@@ -52,6 +52,8 @@ bcpl-supply-chain-cost-leakage-diagnostic/
 - 📋 **Fulfillment (2.25%)** — 10.7% order error rate; partial shipments (৳52,800) larger than returns (৳14,400)
 - 🎯 **80/20 confirmed** — Top 3 suppliers = 59% of procurement leakage; Top 3 routes = 76% of logistics leakage
 
+📄 **[Read the full Insight Report →](./INSIGHT_REPORT.md)**
+
 ---
 
 ## 💡 Recommendations Summary
